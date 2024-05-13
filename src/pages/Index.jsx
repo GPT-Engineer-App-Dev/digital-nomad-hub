@@ -14,7 +14,7 @@ const Index = () => {
 
   return (
     <Container maxW="container.xl" p={0}>
-      <Box as="header" bg="blue.500" color="white" py={4}>
+      <Box as="header" bg="green.500" color="white" py={4}>
         <Flex justify="center" align="center">
           <Heading as="h1" size="lg">NomadRank</Heading>
         </Flex>
